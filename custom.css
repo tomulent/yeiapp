@@ -1,0 +1,74 @@
+img.center-img {
+	margin-left:10%;
+	margin-right:10%;
+	width:80%;
+
+}
+
+img.center-img2 {
+	margin-left:25%;
+	margin-right:25%;
+	width:50%;
+
+}
+
+img.center-img3 {
+	margin-left:30%;
+	margin-right:30%;
+	width:40%;
+
+}
+
+img.img35 {
+ width:35%;
+}
+
+img.img49 {
+	width:49%;
+}
+
+img.grant-img {
+  width:20%;
+  float:left;
+}
+
+img.img100 {
+  width:100%;
+}
+
+.big {
+  font-size:1.2em;
+}
+
+img.nw {
+  vertical-align:middle;
+  height:12px;
+  margin-bottom:1px;
+}
+
+.ui-icon-custom {
+    background-image: url("content-images/nw-white.png");
+    background-position: 2px 2px;
+    background-size: 70%;
+}
+
+.strong {
+  font-weight:bold;
+}
+
+.25left {
+  width:25%;
+  float:left;
+}
+
+.floatright {
+  float:right;
+}
+
+.italic {
+ font-style:italic;
+}
+
+.home-list li a {
+  text-align:center;
+}
